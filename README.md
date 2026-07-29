@@ -1,7 +1,6 @@
 # Social-Media-Analytics
-<img width="1326" height="741" alt="image" src="https://github.com/user-attachments/assets/2645d2c9-cf96-4a3c-8e68-36ab3befa468" />
-
 This dashboard analyzing social media audience engagement : likes, shares, comments, video views,demographics, and geographic distribution.
+<img width="1326" height="741" alt="image" src="https://github.com/user-attachments/assets/2645d2c9-cf96-4a3c-8e68-36ab3befa468" />
 ## Overview
 This Power BI dashboard provides insights into social media audience engagement and demographics. It tracks likes, shares, comments, video views, and analyzes audience by hobby, profession, age, gender, and country to help optimize content strategy.
 
